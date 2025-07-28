@@ -139,3 +139,13 @@ if st.sidebar.button("View Leaderboard"):
         )
     else:
         st.sidebar.info("No submissions yet.")
+
+# Developer Contact Section
+st.markdown("---")
+st.subheader("👨‍💻 Developer Contact")
+st.markdown("""
+**Name:** Shan Shareef 
+**Email:** `SSdev@example.com`  
+**GitHub:** [github.com/SHAN2348](https://github.com/SHAN2348)  
+**Location:** India
+""")
