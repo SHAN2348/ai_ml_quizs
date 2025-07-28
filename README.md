@@ -30,3 +30,9 @@ This is a simple and interactive web application built with **Streamlit** that a
 
 ```bash
 pip install streamlit
+
+
+## 👨‍💻 Developer
+**Name:** Shan Shareef
+**Email:** SSdev@example.com
+
